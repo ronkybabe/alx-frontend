@@ -1,0 +1,16 @@
+{
+  "name": "0x00-html_advanced",
+  "version": "1.0.0",
+  "description": "0x00. Advanced HTML",
+  "main": "index.js",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
